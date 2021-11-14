@@ -2,16 +2,16 @@
 2021-11-14
 
 ### Project Title
-Udacity github Project
+Udacity Bikeshare Project
 
 ### Description
-Udacity final github project.
+Udacity Bikeshare project, including analysis of bikeshare data across 3 US cities. 
 
 ### Files used
 Project Submission:
 bikeshare.py
 
-Data Files
+Data Files:
 chicago.csv
 new_york_city.csv
 washington.csv
