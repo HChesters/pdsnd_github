@@ -1,1 +1,10 @@
 .github/**
+
+# Ignore Chicago CSV File 
+chicago.csv
+
+# Ignore New York City CSV File
+new_york_city.csv
+
+# Ignore Washington CV File
+washington.csv
