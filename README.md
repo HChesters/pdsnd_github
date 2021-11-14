@@ -4,10 +4,10 @@
 2021-11-14
 
 ### Project Title
-github Project
+Udacity github Project
 
 ### Description
-Udacity final github project. 
+Udacity final github project.
 
 ### Files used
 bikeshare.py
